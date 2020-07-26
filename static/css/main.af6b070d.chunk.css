@@ -1,0 +1,2 @@
+@-webkit-keyframes blink{50%{background-color:#228b22}}@keyframes blink{50%{background-color:#228b22}}.blink{-webkit-animation-name:blink;animation-name:blink;-webkit-animation-duration:.2s;animation-duration:.2s;-webkit-animation-timing-function:step-end;animation-timing-function:step-end;-webkit-animation-iteration-count:6;animation-iteration-count:6;-webkit-animation-direction:alternate;animation-direction:alternate}
+/*# sourceMappingURL=main.af6b070d.chunk.css.map */
